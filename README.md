@@ -7,7 +7,7 @@ Build a Convolutional Neural Network (CNN) to classify waste images into categor
 1. Loaded dataset from Kaggle  
 2. Used ImageDataGenerator for preprocessing  
 3. Built CNN model with TensorFlow/Keras  
-4. Trained model for 8 epochs  
+4. Trained model for 4 epochs  
 5. Visualized accuracy and loss graphs  
 6. Evaluated model performance  
 
